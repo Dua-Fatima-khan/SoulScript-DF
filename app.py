@@ -3,14 +3,15 @@ import random
 
 st.set_page_config(
     page_title="SoulScript",
-    page_icon=":🌿",
+    page_icon="\U0001F33F",
     layout="centered",
 )
+
 def generate_story(name, dream, challenge, inspiration, action, emotion, place):
     actions = [
-        "pushed forward despite all odds 💪",
-        "turned pain into power 🔥",
-        "refused to give up 🏆",
+        "pushed forward despite all odds \U0001F4AA",
+        "turned pain into power \U0001F525",
+        "refused to give up \U0001F3C6",
         "kept believing when no one else did ✨",
         "fought with an unshakable spirit ⚡"
     ]
