@@ -58,7 +58,7 @@ if st.button("✨ Generate My Story ✨"):
 st.markdown("""
     <hr>
     <h3 style='text-align:center;color:#2E8B57;'>Remember, greatness is within you! 💪🚀</h3>
-    <p style='text-align:center;'>Follow us on <a href='https://www.linkedin.com/in/dua-fatima-906208258/' target='_blank'>LinkedIn</a> for more inspiration!</p>
+    <p style='text-align:center;'>Follow me on <a href='https://www.linkedin.com/in/dua-fatima-906208258/' target='_blank'>LinkedIn</a> for more inspiration!</p>
     <p style='text-align:center;'>Share your story with us using <b>#SoulScript</b> on my LinkedIn page.</p>
     <hr>
     <div style='text-align:center;font-size:12px;color:#555;'>
